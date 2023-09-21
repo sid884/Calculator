@@ -1,2 +1,2 @@
 # Calculator
-Calculator app using Android Studio 
+Simple calculator app using Android Studio 
